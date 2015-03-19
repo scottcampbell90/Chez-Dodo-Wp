@@ -1,0 +1,13 @@
+/*
+Theme Name: chezdodo
+Theme URI: http://chezdodopdx.net
+Author: Scott Campbell
+Author URI: http://scottdcampbell.com/
+Description: Chez Dodo custom Wordpress theme built with bootstrap.
+License: v1
+
+
+*/
+@import url('bootstrap/css/bootstrap.min.css'); 
+@import url('bootstrap/css/styles.css'); 
+
